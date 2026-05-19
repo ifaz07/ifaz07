@@ -24,8 +24,8 @@ detection in Bangla LLMs.
 ## Featured Projects
 | Project | Stack | Description |
 |---|---|---|
+| [Shomadhan](https://github.com/ifaz07/Shomadhan) | MERN Stack | Civic issue tracking with NLP |
 | [AI Code Detection](https://github.com/ifaz07/Data-Science) | Python, XGBoost, TF-IDF | 1.96M samples, 75% accuracy |
 | [NLP Classifier](https://github.com/ifaz07/Natural-Language-Processing-NLP-) | Python, RNN, LSTM, GRU | 6 architectures benchmarked |
-| [Shomadhan](https://github.com/ifaz07/Shomadhan) | MERN Stack | Civic issue tracking with NLP |
 | [MediChain](https://github.com/ifaz07/Medi-Chain) | Laravel, MySQL | Healthcare platform with AI |
 | [Blockchain DApp](https://github.com/ifaz07/Freelance-Market-Escrow---BlockChain-Project) | Solidity, Web3.js | Decentralized freelance marketplace |
