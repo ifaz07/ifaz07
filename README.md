@@ -9,7 +9,7 @@ detection in Bangla LLMs.
 
 ## Tech Stack
 
-**Languages:** Python | JavaScript | PHP | Solidity | SQL | HTML | CSS
+**Languages:** Python | Java | JavaScript | PHP 
 **ML & Data:** Scikit-learn | BERT | Pandas | NumPy | Matplotlib | Seaborn
 **Web & Frameworks:** React | Node.js | Express.js | Laravel | Web3.js
 **Blockchain:** Solidity | Ethereum | MetaMask | Truffle | Ganache
