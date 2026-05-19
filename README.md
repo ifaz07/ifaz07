@@ -10,10 +10,15 @@ detection in Bangla LLMs.
 ## Tech Stack
 
 **Languages:** Python | Java | JavaScript | PHP 
+
 **ML & Data:** Scikit-learn | BERT | Pandas | NumPy | Matplotlib | Seaborn
+
 **Web & Frameworks:** React | Node.js | Express.js | Laravel | Web3.js
+
 **Blockchain:** Solidity | Ethereum | MetaMask | Truffle | Ganache
+
 **Database:** MySQL | MongoDB
+
 **Tools:** Git | GitHub | Power BI | REST APIs | Agile/Scrum
 
 ## Featured Projects
