@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**ifaz07/ifaz07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Ifaz Alamgir
 
-Here are some ideas to get you started:
+CS Undergraduate @ BRAC University | GPA: 3.89/4.0
+Machine Learning | NLP | Full-Stack Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I build
+- ML pipelines and NLP systems (BERT, TF-IDF, XGBoost)
+- Full-stack web apps (MERN, Laravel/MySQL)
+- AI-integrated platforms
+
+## Stack
+Python | Scikit-learn | BERT | React | Node.js | Laravel | SQL
+
+## Featured Projects
+- AI-Generated Code Detection (1.96M samples, 75% accuracy)
+- Bangla LLM Hallucination Detection (Undergraduate Thesis)
+- Shomadhan — Civic Issue Tracking with NLP Classification
+- MediChain — Healthcare Platform with AI Assistant
+
+📧 ifazalamgir7@gmail.com
+🔗 linkedin.com/in/ifaz-alamgir-407375247
