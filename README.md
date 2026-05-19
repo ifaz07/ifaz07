@@ -1,11 +1,6 @@
 CS Undergraduate @ BRAC University | GPA: 3.89/4.0
 Machine Learning | NLP | Full-Stack Development
 
-📧 ifazalamgir7@gmail.com
-🔗 linkedin.com/in/ifaz-alamgir-407375247
-
----
-
 ## About Me
 Computer Science undergraduate with hands-on experience in
 Machine Learning, NLP research, and Full-Stack Development.
