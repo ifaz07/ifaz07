@@ -1,5 +1,4 @@
-CS Undergraduate @ BRAC University | GPA: 3.89/4.0|
-
+CS Undergraduate @ BRAC University | GPA: 3.89/4.0 |
 Machine Learning | NLP | Full-Stack Development
 
 ## About Me
