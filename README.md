@@ -25,11 +25,12 @@ detection in Bangla LLMs.
 
 | Project | Stack | Key Highlight | Description |
 | :--- | :--- | :--- | :--- |
-| [**Shomadhan**](https://github.com/ifaz07/Shomadhan) | MERN Stack | Real-time service marketplace | Service discovery & booking platform with REST APIs, React frontend, MongoDB. |
-| [**AI Code Detection**](https://github.com/ifaz07/Data-Science) | Python, XGBoost | **75% accuracy** | Detects AI vs. human code on 1.96M samples using TF-IDF + XGBoost. |
-| [**NLP Classifier**](https://github.com/ifaz07/Natural-Language-Processing-NLP-) | Python, RNN/LSTM/GRU | 6 architectures benchmarked | Compares deep learning models for text classification tasks. |
-| [**MediChain**](https://github.com/ifaz07/Medi-Chain) | Laravel, MySQL | AI-integrated healthcare | Web-based healthcare platform with AI-powered patient management. |
-| [**Blockchain DApp**](https://github.com/ifaz07/Freelance-Market-Escrow---BlockChain-Project) | Solidity, Web3.js | Decentralized escrow | Freelance marketplace with smart contract escrow & MetaMask integration. |
-| [**3D Target Practice**](https://github.com/ifaz07/Computer-Graphics/blob/main/Computer%20Graphics%20Project.py) | Python, OpenGL | FPS game mechanics | Interactive 3D shooter with scoring, combos, and a giant boss target. |
-| [**Healthcare Dashboard**](https://github.com/ifaz07/Power-Bi-Project) | Power BI | £5M+ billing analysis | Tracks billing, insurance, and costs across procedures & UK cities. |
-| [**FindYourTurf**](https://github.com/ifaz07/TurfProject) | PHP, MySQL | Real-time booking system | Sports turf booking with availability checks, payments, and owner panel. |
+| [**Shomadhan**](https://github.com/ifaz07/Shomadhan) | MERN Stack | NLP-powered civic complaints | GPS submission, AI classification, SLA monitoring, multi-role dashboards. |
+| [**Fraud Detection**](https://github.com/ifaz07/Machine-Learning-Projects) | Python, Random Forest, SMOTE | **99.95% accuracy** | Detects fraudulent transactions on imbalanced data (0.17% fraud rate). F1: 0.822, ROC-AUC: 0.852. |
+| [**FindYourTurf**](https://github.com/ifaz07/TurfProject) | PHP, MySQL | Real-time booking | Turf booking with availability checks, payments, auth, and owner panel. |
+| [**Blockchain DApp**](https://github.com/ifaz07/Freelance-Market-Escrow---BlockChain-Project) | Solidity, Web3.js | Decentralized escrow | Smart contract escrow with MetaMask integration. |
+| [**MediChain**](https://github.com/ifaz07/Medi-Chain) | Laravel, MySQL | AI healthcare platform | Laravel-based platform with AI-powered patient management. |
+| [**AI Code Detection**](https://github.com/ifaz07/Data-Science) | Python, XGBoost | **75% accuracy** | Detects AI vs. human code on 1.96M samples. |
+| [**NLP Classifier**](https://github.com/ifaz07/Natural-Language-Processing-NLP-) | Python, RNN/LSTM/GRU | 6 architectures | Benchmarks deep learning models for text classification. |
+| [**Healthcare Dashboard**](https://github.com/ifaz07/Power-Bi-Project) | Power BI | £5M+ billing analysis | Tracks billing, insurance, costs across UK cities. |
+| [**3D Target Practice**](https://github.com/ifaz07/Computer-Graphics/blob/main/Computer%20Graphics%20Project.py) | Python, OpenGL | FPS game | 3D shooter with scoring, combos, and boss target. |
