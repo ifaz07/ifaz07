@@ -33,4 +33,4 @@ detection in Bangla LLMs.
 | [**AI Code Detection**](https://github.com/ifaz07/Data-Science) | Python, XGBoost | **75% accuracy** | Detects AI vs. human code on 1.96M samples. |
 | [**NLP Classifier**](https://github.com/ifaz07/Natural-Language-Processing-NLP-) | Python, RNN/LSTM/GRU | 6 architectures | Benchmarks deep learning models for text classification. |
 | [**Healthcare Dashboard**](https://github.com/ifaz07/Power-Bi-Project) | Power BI | £5M+ billing analysis | Tracks billing, insurance, costs across UK cities. |
-| [**3D Target Practice**](https://github.com/ifaz07/Computer-Graphics/blob/main/Computer%20Graphics%20Project.py) | Python, OpenGL | FPS game | 3D shooter with scoring, combos, and boss target. |
+| [**3D Target Practice**](https://github.com/ifaz07/Computer-Graphics/blob/main/Computer%20Graphics%20Project.py) | Python, OpenGL | FPS game | 3D shooter with scoring, combos, and moving boss target. |
