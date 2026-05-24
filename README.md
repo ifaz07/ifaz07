@@ -26,7 +26,7 @@ detection in Bangla LLMs.
 | Project | Stack | Key Highlight | Description |
 | :--- | :--- | :--- | :--- |
 | [**Shomadhan**](https://github.com/ifaz07/Shomadhan) | MERN Stack | NLP-powered civic complaints | GPS submission, AI classification, SLA monitoring, multi-role dashboards. |
-| [**Fraud Detection**](https://github.com/ifaz07/Machine-Learning-Projects) | Python, Random Forest, SMOTE | **99.95% accuracy** | Detects fraudulent transactions on imbalanced data (0.17% fraud rate). F1: 0.822, ROC-AUC: 0.852. |
+| [**Fraud Detection**](https://github.com/ifaz07/Machine-Learning-Projects) | Python, Random Forest, SMOTE | **Detects Fraud Transaction** | Detects fraudulent transactions on imbalanced data (0.17% fraud rate). F1: 0.822, ROC-AUC: 0.852. |
 | [**FindYourTurf**](https://github.com/ifaz07/TurfProject) | PHP, MySQL | Real-time booking | Turf booking with availability checks, payments, auth, and owner panel. |
 | [**Blockchain DApp**](https://github.com/ifaz07/Freelance-Market-Escrow---BlockChain-Project) | Solidity, Web3.js | Decentralized escrow | Smart contract escrow with MetaMask integration. |
 | [**MediChain**](https://github.com/ifaz07/Medi-Chain) | Laravel, MySQL | AI healthcare platform | Laravel-based platform with AI-assistance and Tele-medicine platform. |
