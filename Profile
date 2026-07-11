@@ -1,11 +1,13 @@
-CS Undergraduate @ BRAC University | GPA: 3.89/4.0 |
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ifaz07&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+CS Undergraduate @ BRAC University | GPA: 3.9/4.0 |
 Machine Learning | NLP | Full-Stack Development
 
 ## About Me
 Computer Science undergraduate with hands-on experience in
 Machine Learning, NLP research, and Full-Stack Development.
-Currently working on undergraduate thesis on hallucination
-detection in Bangla LLMs.
+
 
 ## Tech Stack
 
@@ -19,7 +21,7 @@ detection in Bangla LLMs.
 
 **Database:** MySQL | MongoDB
 
-**Tools:** Git | GitHub | Power BI | REST APIs | Agile/Scrum
+**Tools:** Git | GitHub | Docker | Power BI | REST APIs | Agile/Scrum
 
 ## Featured Projects
 
