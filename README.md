@@ -117,7 +117,7 @@ Multi-role healthcare platform with appointment scheduling, telemedicine, and tr
 <td width="60px" align="center">🎙️</td>
 <td>
 
-**[EchoMinutes]([https://github.com/ifaz07](https://github.com/ifaz07/EchoMinutes---AI-Meeting-Assistant))**
+### [EchoMinutes](https://github.com/ifaz07/EchoMinutes---AI-Meeting-Assistant)
 `Python` `Whisper` `LangChain` `Mistral` `ChromaDB` `Streamlit`
 
 Turns a meeting recording or YouTube link into a transcript, summary, action items, and a RAG chat interface grounded in what was actually said. Bangla/Hindi audio routed through Sarvam AI for speech-to-text-translate.
