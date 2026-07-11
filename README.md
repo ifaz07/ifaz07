@@ -16,9 +16,9 @@ Full-Stack Development · Backend Systems · Machine Learning & NLP
 
 ## About Me
 
-Computer Science graduate with hands-on experience across full-stack development, backend API design, and applied machine learning / NLP research. I like building things end to end — from a deployed REST API with authentication and role-based access control, to an ML research pipeline benchmarking transformer models on 9,000+ evaluations.
+Computer Science graduate with hands-on experience across full-stack development, backend API design, and applied machine learning / NLP research. I like building things end to end, from a deployed REST API with authentication and role-based access control, to an ML research pipeline benchmarking transformer models on 9,000+ evaluations.
 
-Currently exploring containerized deployment workflows (Docker basics, CI/CD pipelines) alongside my core full-stack and ML work. Solved 200+ data structures and algorithms problems across major patterns (arrays, trees, graphs, dynamic programming, binary search, two pointers) via Striver's A2Z sheet.
+Currently exploring containerized deployment workflows (Docker basics, CI/CD pipelines) alongside my core full-stack and ML work. Solved 200+ data structures and algorithms problems across major patterns: arrays, trees, graphs, dynamic programming, binary search, two pointers.
 
 ---
 
@@ -84,145 +84,125 @@ CI/CD pipelines (basics) · Swagger · Power BI · Agile/Scrum
 <td width="60px" align="center">🗂️</td>
 <td>
 
-**[Kanban Board System](https://github.com/ifaz07/Kanban-Board-System-)** — Backend REST API
+**[Kanban Board System](https://github.com/ifaz07/Kanban-Board-System-)**
 `NestJS` `TypeScript` `PostgreSQL` `Prisma` `JWT` `Swagger`
 
-A production-style Kanban task management API built as a backend internship take-home assignment. JWT authentication with rotating refresh tokens, ownership-based access control across a board → column → task hierarchy, gap-based task position/reorder logic, soft deletes, an activity log for task moves, and file attachments streamed directly to Cloudinary with no local disk writes. Fully documented with Swagger, deployed live on Render.
+Kanban task management REST API with JWT auth, rotating refresh tokens, ownership-based access control, gap-based task reordering, soft deletes, and an activity log. Deployed live on Render with Swagger docs.
 
 [Live API](https://kanban-board-system.onrender.com) · [Swagger Docs](https://kanban-board-system.onrender.com/api/docs)
 
 </td>
 </tr>
 
-<tr><td colspan="2"><br></td></tr>
-
 <tr>
 <td width="60px" align="center">🎙️</td>
 <td>
 
-**[EchoMinutes](https://github.com/ifaz07)** — AI Meeting Assistant
+**[EchoMinutes](https://github.com/ifaz07)**
 `Python` `Whisper` `LangChain` `Mistral` `ChromaDB` `Streamlit`
 
-Turns a recorded meeting — a YouTube link or a local audio/video file — into a transcript, executive summary, action items, key decisions, open questions, and a chat interface grounded in what was actually said. Local Whisper handles English transcription; Bangla/Hindi audio routes through Sarvam AI's speech-to-text-translate API. The chat feature is retrieval-augmented (transcript embedded via `sentence-transformers/all-MiniLM-L6-v2`, stored in ChromaDB) so answers stay grounded in the source transcript.
+Turns a meeting recording or YouTube link into a transcript, summary, action items, and a RAG chat interface grounded in what was actually said. Bangla/Hindi audio routed through Sarvam AI for speech-to-text-translate.
 
 </td>
 </tr>
-
-<tr><td colspan="2"><br></td></tr>
 
 <tr>
 <td width="60px" align="center">🏙️</td>
 <td>
 
-**[Shomadhan](https://github.com/ifaz07/Shomadhan)** — Smart Civic Issue Tracking System
+**[Shomadhan](https://github.com/ifaz07/Shomadhan)**
 `MERN Stack` `REST APIs` `JWT` `Leaflet.js`
 
-Full-stack civic complaint platform with NLP-based auto-classification, SLA monitoring, duplicate detection via geographic proximity analysis, and real-time notifications across three user roles. Deployed with a 97 Lighthouse performance score.
+Civic complaint platform with NLP auto-classification, SLA monitoring, and duplicate detection via geographic proximity. 97 Lighthouse performance score.
 
 [Live Demo](https://shomadhan-eight.vercel.app)
 
 </td>
 </tr>
 
-<tr><td colspan="2"><br></td></tr>
-
 <tr>
 <td width="60px" align="center">🇧🇩</td>
 <td>
 
-**[Hallucination Detection in Bangla LLMs](https://github.com/ifaz07)** — Undergraduate Thesis
+**[Hallucination Detection in Bangla LLMs](https://github.com/ifaz07)**
 `Python` `BERT` `mDeBERTa` `LLaMA 3` `Transformer Interpretability`
 
-Research pipeline combining a six-signal hybrid verification approach (BERT, NLI, round-trip translation, self-consistency, lexical preservation, support score) with attention/logit feature extraction across 32 model layers to detect hallucinations in Bangla LLM outputs. Benchmarked across 9,000 evaluations using classical ML and transformer-based classifiers.
+Undergraduate thesis: six-signal hybrid verification pipeline with attention/logit feature extraction to detect hallucinations in Bangla LLM outputs, benchmarked across 9,000 evaluations.
 
 </td>
 </tr>
-
-<tr><td colspan="2"><br></td></tr>
 
 <tr>
 <td width="60px" align="center">💳</td>
 <td>
 
-**[Fraud Detection](https://github.com/ifaz07/Machine-Learning-Projects)** — ML Classification Pipeline
+**[Fraud Detection](https://github.com/ifaz07/Machine-Learning-Projects)**
 `Python` `Random Forest` `SMOTE` `XGBoost`
 
-End-to-end pipeline on 1.2M+ transaction records with SMOTE resampling for severe class imbalance (0.17% fraud rate). Achieved 82% F1-score and 85% ROC-AUC using Random Forest, with cross-validation and leakage checks between train/test splits.
+ML pipeline on 1.2M+ transaction records with SMOTE resampling for severe class imbalance. 82% F1-score and 85% ROC-AUC using Random Forest.
 
 </td>
 </tr>
-
-<tr><td colspan="2"><br></td></tr>
 
 <tr>
 <td width="60px" align="center">🏥</td>
 <td>
 
-**[MediChain](https://github.com/ifaz07/Medi-Chain)** — Integrated Healthcare Platform
+**[MediChain](https://github.com/ifaz07/Medi-Chain)**
 `Laravel` `PHP` `MySQL` `Twilio Video API`
 
-Multi-role healthcare platform with appointment scheduling, telemedicine, and transaction-safe booking using row-level locking to prevent double-booking.
+Multi-role healthcare platform with appointment scheduling, telemedicine, and transaction-safe booking via row-level locking.
 
 </td>
 </tr>
-
-<tr><td colspan="2"><br></td></tr>
 
 <tr>
 <td width="60px" align="center">⚽</td>
 <td>
 
-**[FindYourTurf](https://github.com/ifaz07/TurfProject)** — Sports Venue Booking Platform
+**[FindYourTurf](https://github.com/ifaz07/TurfProject)**
 `PHP` `MySQL` `PHPMailer`
 
-Turf booking platform with real-time availability validation, role-based dashboards, and automated email notifications for tournament announcements.
+Sports venue booking platform with real-time availability validation and role-based dashboards.
 
 </td>
 </tr>
-
-<tr><td colspan="2"><br></td></tr>
 
 <tr>
 <td width="60px" align="center">🤖</td>
 <td>
 
-**[AI-Generated Code Detection](https://github.com/ifaz07/Data-Science)** — Stylometric ML Pipeline
+**[AI-Generated Code Detection](https://github.com/ifaz07/Data-Science)**
 `Python` `TF-IDF` `XGBoost` `PCA` `t-SNE`
 
-Classified human vs. AI-generated code (ChatGPT, DeepSeek, Qwen) on a 1.96M-sample dataset using stylometric feature engineering. 75.07% accuracy across five compared classifiers.
+Classified human vs. AI-generated code on a 1.96M-sample dataset using stylometric features. 75.07% accuracy.
 
 </td>
 </tr>
-
-<tr><td colspan="2"><br></td></tr>
 
 <tr>
 <td width="60px" align="center">📊</td>
 <td>
 
-**[Multi-Class NLP Text Classifier](https://github.com/ifaz07/Natural-Language-Processing-NLP-)** — Architecture Benchmark
+**[Multi-Class NLP Text Classifier](https://github.com/ifaz07/Natural-Language-Processing-NLP-)**
 `Python` `Word2Vec` `RNN` `LSTM` `GRU`
 
-Benchmarked six NLP architectures for 10-category text classification with structured precision/recall/F1 evaluation.
+Benchmarked six NLP architectures for 10-category text classification.
 
 </td>
 </tr>
-
-<tr><td colspan="2"><br></td></tr>
 
 <tr>
 <td width="60px" align="center">⛓️</td>
 <td>
 
-**[Decentralized Freelance Marketplace](https://github.com/ifaz07/Freelance-Market-Escrow---BlockChain-Project)** — Blockchain DApp
+**[Decentralized Freelance Marketplace](https://github.com/ifaz07/Freelance-Market-Escrow---BlockChain-Project)**
 `Solidity` `Ethereum` `Web3.js` `Truffle` `Ganache`
 
-Ethereum-based freelance marketplace with Solidity smart contracts handling escrow payments, a bidding system, and trustless dispute resolution — no central intermediary.
+Ethereum smart contracts handling escrow payments, bidding, and trustless dispute resolution.
 
 </td>
 </tr>
-
-<tr><td colspan="2"><br></td></tr>
 
 <tr>
 <td width="60px" align="center">📈</td>
@@ -231,7 +211,7 @@ Ethereum-based freelance marketplace with Solidity smart contracts handling escr
 **[Healthcare Analytics Dashboard](https://github.com/ifaz07/Power-Bi-Project)**
 `Power BI` `DAX` `Power Query`
 
-Interactive dashboard analyzing £5M+ in healthcare billing data — patient trends, insurance costs, and department-level KPIs across UK cities.
+Dashboard analyzing £5M+ in healthcare billing data across UK cities.
 
 </td>
 </tr>
@@ -239,19 +219,10 @@ Interactive dashboard analyzing £5M+ in healthcare billing data — patient tre
 
 ---
 
-## DSA Practice
-
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-200%2B-success?style=flat-square)
-![Sheet](https://img.shields.io/badge/Following-Striver's%20A2Z%20Sheet-orange?style=flat-square)
-
-200+ problems solved across major data structures and algorithms patterns — arrays, trees, graphs, dynamic programming, binary search, two pointers.
-
----
-
 ## Certifications
 
-- **Deloitte Australia Technology Job Simulation** (Forage, 2026) — coding and technology track
-- **DataCamp** (2024) — Data Manipulation in Python, Data Manipulation with Pandas, Cleaning Data in Python, Introduction to NumPy
+- **Deloitte Australia Technology Job Simulation** (Forage, 2026): coding and technology track
+- **DataCamp** (2026): Data Manipulation in Python, Data Manipulation with Pandas, Cleaning Data in Python, Introduction to NumPy
 
 ---
 
