@@ -8,7 +8,6 @@ Full-Stack Development · Backend Systems · Machine Learning & NLP
 
 [![Email](https://img.shields.io/badge/Email-ifazalamgir7%40gmail.com-informational?style=flat-square)](mailto:ifazalamgir7@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ifaz--alamgir-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ifaz-alamgir-407375247)
-[![GitHub](https://img.shields.io/badge/GitHub-ifaz07-181717?style=flat-square&logo=github)](https://github.com/ifaz07)
 
 </div>
 
@@ -33,7 +32,6 @@ Currently exploring containerized deployment workflows (Docker basics, CI/CD pip
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 **Backend**
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
@@ -54,22 +52,17 @@ Currently exploring containerized deployment workflows (Docker basics, CI/CD pip
 ![Scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square)
-BERT · mDeBERTa · XGBoost · Matplotlib · Seaborn
 
 **Web & Frontend**
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-REST APIs · JWT Auth · HTML/CSS
 
 **Blockchain**
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
-Web3.js · MetaMask · Truffle · Ganache
 
 **DevOps & Tools**
 ![Docker](https://img.shields.io/badge/-Docker%20(basics)-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-CI/CD pipelines (basics) · Swagger · Power BI · Agile/Scrum
 
 </td>
 </tr>
@@ -80,6 +73,20 @@ CI/CD pipelines (basics) · Swagger · Power BI · Agile/Scrum
 ## Featured Projects
 
 <table>
+<tr>
+<td width="60px" align="center">🏙️</td>
+<td>
+
+**[Shomadhan](https://github.com/ifaz07/Shomadhan)**
+`MERN Stack` `REST APIs` `JWT` `Leaflet.js`
+
+Civic complaint platform with NLP auto-classification, SLA monitoring, and duplicate detection via geographic proximity. 97 Lighthouse performance score.
+
+[Live Demo](https://shomadhan-eight.vercel.app)
+
+</td>
+</tr>
+
 <tr>
 <td width="60px" align="center">🗂️</td>
 <td>
@@ -95,10 +102,22 @@ Kanban task management REST API with JWT auth, rotating refresh tokens, ownershi
 </tr>
 
 <tr>
+<td width="60px" align="center">🏥</td>
+<td>
+
+**[MediChain](https://github.com/ifaz07/Medi-Chain)**
+`Laravel` `PHP` `MySQL` `Twilio Video API`
+
+Multi-role healthcare platform with appointment scheduling, telemedicine, and transaction-safe booking via row-level locking.
+
+</td>
+</tr>
+
+<tr>
 <td width="60px" align="center">🎙️</td>
 <td>
 
-**[EchoMinutes](https://github.com/ifaz07)**
+**[EchoMinutes]([https://github.com/ifaz07](https://github.com/ifaz07/EchoMinutes---AI-Meeting-Assistant))**
 `Python` `Whisper` `LangChain` `Mistral` `ChromaDB` `Streamlit`
 
 Turns a meeting recording or YouTube link into a transcript, summary, action items, and a RAG chat interface grounded in what was actually said. Bangla/Hindi audio routed through Sarvam AI for speech-to-text-translate.
@@ -107,15 +126,13 @@ Turns a meeting recording or YouTube link into a transcript, summary, action ite
 </tr>
 
 <tr>
-<td width="60px" align="center">🏙️</td>
+<td width="60px" align="center">⚽</td>
 <td>
 
-**[Shomadhan](https://github.com/ifaz07/Shomadhan)**
-`MERN Stack` `REST APIs` `JWT` `Leaflet.js`
+**[FindYourTurf](https://github.com/ifaz07/TurfProject)**
+`PHP` `MySQL` `PHPMailer`
 
-Civic complaint platform with NLP auto-classification, SLA monitoring, and duplicate detection via geographic proximity. 97 Lighthouse performance score.
-
-[Live Demo](https://shomadhan-eight.vercel.app)
+Sports venue booking platform with real-time availability validation and role-based dashboards.
 
 </td>
 </tr>
@@ -140,30 +157,6 @@ Undergraduate thesis: six-signal hybrid verification pipeline with attention/log
 `Python` `Random Forest` `SMOTE` `XGBoost`
 
 ML pipeline on 1.2M+ transaction records with SMOTE resampling for severe class imbalance. 82% F1-score and 85% ROC-AUC using Random Forest.
-
-</td>
-</tr>
-
-<tr>
-<td width="60px" align="center">🏥</td>
-<td>
-
-**[MediChain](https://github.com/ifaz07/Medi-Chain)**
-`Laravel` `PHP` `MySQL` `Twilio Video API`
-
-Multi-role healthcare platform with appointment scheduling, telemedicine, and transaction-safe booking via row-level locking.
-
-</td>
-</tr>
-
-<tr>
-<td width="60px" align="center">⚽</td>
-<td>
-
-**[FindYourTurf](https://github.com/ifaz07/TurfProject)**
-`PHP` `MySQL` `PHPMailer`
-
-Sports venue booking platform with real-time availability validation and role-based dashboards.
 
 </td>
 </tr>
@@ -222,7 +215,7 @@ Dashboard analyzing £5M+ in healthcare billing data across UK cities.
 ## Certifications
 
 - **Deloitte Australia Technology Job Simulation** (Forage, 2026): coding and technology track
-- **DataCamp** (2026): Data Manipulation in Python, Data Manipulation with Pandas, Cleaning Data in Python, Introduction to NumPy
+- **DataCamp** (2024): Data Manipulation in Python, Data Manipulation with Pandas, Cleaning Data in Python, Introduction to NumPy
 
 ---
 
