@@ -65,5 +65,9 @@ Currently exploring containerized deployment workflows (Docker basics, CI/CD pip
 </td>
 </tr>
 </table>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=ifaz07&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=ifaz07&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ifaz07&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
