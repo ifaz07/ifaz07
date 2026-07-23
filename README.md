@@ -6,8 +6,9 @@
 
 Full-Stack Development · Backend Systems · Machine Learning & NLP
 
-[![Email](https://img.shields.io/badge/Email-ifazalamgir7%40gmail.com-informational?style=flat-square)](mailto:ifazalamgir7@gmail.com)
+[![Email](https://img.shields.io/badge/Email-ifazalamgir7%40gmail.com-informational?style=flat-square)](https://mail.google.com/mail/?view=cm&fs=1&to=ifazalamgir7@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ifaz--alamgir-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ifaz-alamgir-407375247)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ifazalamgir.vercel.app-blue?style=flat-square&logo=vercel&logoColor=white)](https://ifazalamgir.vercel.app/)
 
 </div>
 
@@ -15,9 +16,9 @@ Full-Stack Development · Backend Systems · Machine Learning & NLP
 
 ## About Me
 
-Computer Science graduate with hands-on experience across full-stack development, backend API design, and applied machine learning / NLP research. I like building things end to end, from a deployed REST API with authentication and role-based access control, to an ML research pipeline benchmarking transformer models on 9,000+ evaluations.
+Computer Science graduate with hands-on experience across full-stack development, backend API design, and applied machine learning / NLP projects. I enjoy building things end to end, from deployed REST APIs with authentication and role-based access control, to ML pipelines that handle large real-world datasets.
 
-Currently exploring containerized deployment workflows (Docker basics, CI/CD pipelines) alongside my core full-stack and ML work. Solved 200+ data structures and algorithms problems across major patterns: arrays, trees, graphs, dynamic programming, binary search, two pointers.
+Currently exploring containerized deployment workflows (Docker basics, CI/CD pipelines) alongside my core full-stack and ML work. Strong problem-solving foundation in data structures and algorithms, with regular practice across major patterns: arrays, trees, graphs, dynamic programming, binary search, two pointers.
 
 ---
 
@@ -37,7 +38,6 @@ Currently exploring containerized deployment workflows (Docker basics, CI/CD pip
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 
 **Databases**
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -65,7 +65,6 @@ Currently exploring containerized deployment workflows (Docker basics, CI/CD pip
 </td>
 </tr>
 </table>
-## 📊 GitHub Statistics
 
 ![GitHub Stats](https://github-readme-stats.shion.dev/api?username=ifaz07&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 
